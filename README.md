@@ -1,14 +1,9 @@
-<!--hide-->
-# Conditional Profile Card
-<!--endhide-->
+# "Generador de un perfil condicional" de EduardoHernandezGuzman
 
-**Note:** If you are working locally, make sure that you have node.js installed in your computer by typing in your terminal:
+## Un poco de información
+Septimo proyecto realizado en el bootcamp de 4GEEKSACADEMY.   
 
-```bash
-$ node -v
-```
-
-## 🌱 How to start this project
+## ¿Cómo puedo ejecutarlo?
 
 This project comes with the necessary files to start working immediately.
 
@@ -135,5 +130,3 @@ This is an example of a possible HTML output, you will have to replace the name,
   </ul>
 </div>
 ```
-
-This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
